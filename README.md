@@ -1,0 +1,19 @@
+Following this tutorial
+https://cubehero.com/2013/11/19/know-only-10-things-to-be-dangerous-in-openscad/
+
+Using the tutorial and trying out basic openscad operations.
+
+- Install plugins for your favorite text editors [here](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_an_external_Editor_with_OpenSCAD).
+
+- Install openscad for your favorite OS [here](http://www.openscad.org/downloads.html)
+
+- Open the file with your editor
+
+- run `openscad filename`
+
+- Window opens with preview, goto `Design -> Automatic reload and preview`
+
+- Profit.
+
+
+View example [here](http://openscad.net/#?r=true&c=dW5pb24gKCl7CiAgICB0cmFuc2xhdGUoWzAsIDAsIDEyMF0pCiAgICBkaWZmZXJlbmNlKCkgewogICAgICAgIHVuaW9uICgpIHsKICAgICAgICAgICAgc3BoZXJlKHIgPSAyMCk7CiAgICAgICAgICAgIHRyYW5zbGF0ZShbMCwwLCAyMCpzaW4oMzApXSkKICAgICAgICAgICAgICAgIGN5bGluZGVyKGg9MzAscjE9MjAgKiBjb3MoMzApLCByMj0wKTsKCiAgICAgICAgICAgIHRyYW5zbGF0ZShbMCwwLDMwKzIwICogc2luKDMwKV0pCiAgICAgICAgICAgICAgICBzcGhlcmUociA9IDYpOwogICAgICAgICAgICB9CiAgICAgICAgcm90YXRlKFs0NSwwLDBdKQogICAgICAgICAgICB0cmFuc2xhdGUoWy0yMCwwLDBdKQogICAgICAgICAgICAgICAgY3ViZShbNDAsNSw0MF0pOwogICAgICAgIH0KCiAgICBjeWxpbmRlcihoPTEyMCxyMT0xOCxyMj0xMik7CiAgICAKICAgIGN5bGluZGVyKGg9MjAscjE9MzUscjI9MjUpOwoKCgogICAgdHJhbnNsYXRlKFswLDAsOTBdKQogICAgaW50ZXJzZWN0aW9uICgpIHsKICAgICAgICBjeWxpbmRlciAoaD0yMCwgcjE9MjAsIHIyPTApOwogICAgICAgIHRyYW5zbGF0ZShbMCwwLDddKQogICAgICAgICAgICBtaXJyb3IoWzAsMCwxXSkKICAgICAgICAgICAgICAgIGN5bGluZGVyKGg9MjAsIHIxPTIwLCByMj0wKTsKICAgIH0KICAgIAoKCn0KLy8gCgoKCg%3D%3D)
